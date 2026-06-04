@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and patterns
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-4%20%2F%20100-red)
+![Problems Solved](https://img.shields.io/badge/Solved-5%20%2F%20100-blue)
 
 | # | Problem                             | Difficulty | Topic           | Date           |
 |---|-------------------------------------|------------|-----------------|----------------|
@@ -16,6 +16,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and patterns
 | 2 | Longest Common Prefix               | Easy       | Array & Hashing | 4th June, 2026 |
 | 3 | Remove Duplicates from Sorted Array | Easy       | Array & Hashing | 4th June, 2026 |
 | 4 | Remove Element                      | Easy       | Array & Hashing | 4th June, 2026 |
+| 5 | Search Insert Position              | Easy       | Array & Hashing | 4th June, 2026 |
 
 
 ---
@@ -46,8 +47,8 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and patterns
 │   └── problem-name.py
 ├── hard/
 │   └── problem-name.py
-└── patterns/
-    └── notes on reusable patterns and techniques
+└── algorithms/
+    └── notes on techniques and new algorithms
 ```
 
 Each solution file includes:
