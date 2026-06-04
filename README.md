@@ -1,6 +1,6 @@
-# LeetCode Solutions 🐍
+# LeetCode Solutions
 
-Solving LeetCode problems in Python. Tracking progress, approaches, and patterns learned.
+Solving LeetCode problems in Python. Tracking progress, approaches, and algorithms learned.
 
 **Goal:** 100 problems solved with solid understanding of core patterns
 
@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and patterns
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-5%20%2F%20100-blue)
+![Problems Solved](https://img.shields.io/badge/Solved-6%20%2F%20100-red)
 
 | # | Problem                             | Difficulty | Topic           | Date           |
 |---|-------------------------------------|------------|-----------------|----------------|
@@ -17,13 +17,14 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and patterns
 | 3 | Remove Duplicates from Sorted Array | Easy       | Array & Hashing | 4th June, 2026 |
 | 4 | Remove Element                      | Easy       | Array & Hashing | 4th June, 2026 |
 | 5 | Search Insert Position              | Easy       | Array & Hashing | 4th June, 2026 |
+| 6 | Plus One                            | Easy       | Array & Hashing | 4th June, 2026 |
 
 
 ---
 
 ## Topics Covered
 
-- [ ] Arrays & Hashing
+- [x] Arrays & Hashing
 - [ ] Two Pointers
 - [ ] Sliding Window
 - [ ] Stack
