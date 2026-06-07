@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-6%20%2F%20100-red)
+![Problems Solved](https://img.shields.io/badge/Solved-7%20%2F%20100-red)
 
 | # | Problem                             | Difficulty | Topic           | Date           |
 |---|-------------------------------------|------------|-----------------|----------------|
@@ -18,6 +18,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 4 | Remove Element                      | Easy       | Array & Hashing | 4th June, 2026 |
 | 5 | Search Insert Position              | Easy       | Array & Hashing | 4th June, 2026 |
 | 6 | Plus One                            | Easy       | Array & Hashing | 4th June, 2026 |
+| 7 | Merge Sorted Array                  | Easy       | Array & Hashing | 8th June, 2026 |
 
 
 ---
@@ -25,7 +26,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 ## Topics Covered
 
 - [x] Arrays & Hashing
-- [ ] Two Pointers
+- [x] Two Pointers
 - [ ] Sliding Window
 - [ ] Stack
 - [ ] Binary Search
@@ -53,9 +54,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 ```
 
 Each solution file includes:
-- Problem description
 - Approach and reasoning
-- Time and space complexity
 - Key takeaways
 
 ---
