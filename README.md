@@ -10,15 +10,16 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ![Problems Solved](https://img.shields.io/badge/Solved-7%20%2F%20100-red)
 
-| # | Problem                             | Difficulty | Topic           | Date           |
-|---|-------------------------------------|------------|-----------------|----------------|
-| 1 | Two Sums                            | Easy       | Array & Hashing | 3rd June, 2026 |
-| 2 | Longest Common Prefix               | Easy       | Array & Hashing | 4th June, 2026 |
-| 3 | Remove Duplicates from Sorted Array | Easy       | Array & Hashing | 4th June, 2026 |
-| 4 | Remove Element                      | Easy       | Array & Hashing | 4th June, 2026 |
-| 5 | Search Insert Position              | Easy       | Array & Hashing | 4th June, 2026 |
-| 6 | Plus One                            | Easy       | Array & Hashing | 4th June, 2026 |
-| 7 | Merge Sorted Array                  | Easy       | Array & Hashing | 8th June, 2026 |
+| # | Problem                             | Difficulty | Topic                         | Date           |
+|---|-------------------------------------|------------|-------------------------------|----------------|
+| 1 | Two Sums                            | Easy       | Array & Hashing               | 3rd June, 2026 |
+| 2 | Longest Common Prefix               | Easy       | Array & Hashing               | 4th June, 2026 |
+| 3 | Remove Duplicates from Sorted Array | Easy       | Array & Hashing               | 4th June, 2026 |
+| 4 | Remove Element                      | Easy       | Array & Hashing               | 4th June, 2026 |
+| 5 | Search Insert Position              | Easy       | Array & Hashing               | 4th June, 2026 |
+| 6 | Plus One                            | Easy       | Array & Hashing               | 4th June, 2026 |
+| 7 | Merge Sorted Array                  | Easy       | Array & Hashing, Two Pointers | 8th June, 2026 |
+| 8 | Length of Last Word                 | Easy       | Array & Hashing               | 8th June, 2026 |
 
 
 ---
