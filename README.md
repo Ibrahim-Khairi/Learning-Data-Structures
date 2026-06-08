@@ -20,6 +20,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 6 | Plus One                            | Easy       | Array & Hashing               | 4th June, 2026 |
 | 7 | Merge Sorted Array                  | Easy       | Array & Hashing, Two Pointers | 8th June, 2026 |
 | 8 | Length of Last Word                 | Easy       | Array & Hashing               | 8th June, 2026 |
+| 8 | Valid Parentheses                   | Easy       | Array & Hashing, Stack        | 8th June, 2026 |
 
 
 ---
@@ -29,7 +30,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 - [x] Arrays & Hashing
 - [x] Two Pointers
 - [ ] Sliding Window
-- [ ] Stack
+- [x] Stack
 - [ ] Binary Search
 - [ ] Linked Lists
 - [ ] Trees
