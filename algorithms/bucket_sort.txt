@@ -1,0 +1,32 @@
+Bucket sort is a sorting algorithm that works by distributing elements into buckets based on some property.
+We can then read them back out in the order.
+
+Instead of comparing elements to see which ones smaller or bigger, we can just use the element's value as a direct index into an array of
+buckets. This makes it O(n), meaning no comparisons needed. Just a simple iteration to drop it into the bucket.
+
+1) Creating buckets:
+buckets = [[] for _ in range(max_value + 1)]
+List Comprehension ^ allows you to basically make 2d arrays in just one line. Great declaration method fr.
+_ can obviously be any iterable variable/pointer
+
+2) for element in input:
+    buckets[some_property(element)].append(element)
+Placing element into its bucket is easy. We just see the property, and append it into that bucket specifically. For example, with frequency,
+the index of the buckets can just be the corresponding frequency. Therefore we can simply put the elements into the bucket with their
+frequency.
+
+3) Reading them back out:
+result = []
+for bucket in buckets:
+    for element in bucket:
+        result.append(element)
+The first loop goes through all the buckets. The second loop goes through all the elements in each bucket. It then just appends it into the
+result array that we want to return or print whatever.
+
+We can use it when we are dealing with sorting by a bounded integer property such as ages, scores, frequencies, counts, etc.
+The range of the property should be known, and it shouldn't be incredibly large.
+If the values are floats or strings we can't use it since it wouldn't provide us clean index mapping.
+We are doing buckets[some_property(element)], like we did in buckets[freq[key]]. We can't do that with floats or strings. It needs to be
+integers definitely.
+If the range is very huge, and the buckets are very less, then it would be meaningless. There would be more emptier buckets than filled by a
+huge margin, so it'll be a huge waste of memory.

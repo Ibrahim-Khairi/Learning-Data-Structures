@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-14%20%2F%20100-red)
+![Problems Solved](https://img.shields.io/badge/Solved-15%20%2F%20100-red)
 
 | #  | Problem                             | Difficulty | Topic                       | Date            |
 |----|-------------------------------------|------------|-----------------------------|-----------------|
@@ -26,6 +26,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 12 | Group Anagrams                      | Medium     | Array & Hashing             | 12th June, 2026 |
 | 13 | Contains Duplicate                  | Easy       | Array & Hashing             | 12th June, 2026 |
 | 14 | Valid Anagram                       | Easy       | Array & Hashing             | 12th June, 2026 |
+| 15 | Top K Frequent Elements             | Medium     | Array & Hashing             | 15th June, 2026 |
 
 
 ---
