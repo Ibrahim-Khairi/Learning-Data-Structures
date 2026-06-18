@@ -8,28 +8,29 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-18%20%2F%20100-red)
+![Problems Solved](https://img.shields.io/badge/Solved-19%20%2F%20100-red)
 
-| #   | Problem                             | Difficulty | Topic                         | Date            |
-|-----|-------------------------------------|------------|-------------------------------|-----------------|
-| 1   | Two Sums                            | Easy       | Array & Hashing               | 3rd June, 2026  |
-| 2   | Longest Common Prefix               | Easy       | Array & Hashing               | 4th June, 2026  |
-| 3   | Remove Duplicates from Sorted Array | Easy       | Array & Hashing               | 4th June, 2026  |
-| 4   | Remove Element                      | Easy       | Array & Hashing               | 4th June, 2026  |
-| 5   | Search Insert Position              | Easy       | Array & Hashing               | 4th June, 2026  |
-| 6   | Plus One                            | Easy       | Array & Hashing               | 4th June, 2026  |
-| 7   | Merge Sorted Array                  | Easy       | Array & Hashing, Two Pointers | 8th June, 2026  |
-| 8   | Length of Last Word                 | Easy       | Array & Hashing               | 8th June, 2026  |
-| 9   | Valid Parentheses                   | Easy       | Array & Hashing, Stack        | 8th June, 2026  |
-| 10  | Best Time to Buy and Sell Stock     | Easy       | Array & Hashing               | 8th June, 2026  |
-| 11  | Valid Palindrome                    | Easy       | Array & Hashing, Two Pointers | 11th June, 2026 |
-| 12  | Group Anagrams                      | Medium     | Array & Hashing               | 12th June, 2026 |
-| 13  | Contains Duplicate                  | Easy       | Array & Hashing               | 12th June, 2026 |
-| 14  | Valid Anagram                       | Easy       | Array & Hashing               | 12th June, 2026 |
-| 15  | Top K Frequent Elements             | Medium     | Array & Hashing               | 15th June, 2026 |
-| 16  | Container With Most Water           | Medium     | Array & Hashing, Two Pointers | 15th June, 2026 |
-| 17  | Valid Sudoku                        | Medium     | Array & Hashing               | 18th June, 2026 |
-| 18  | Spiral Matrix                       | Medium     | Array & Hashing, Two Pointers | 18th June, 2026 |
+| #  | Problem                             | Difficulty | Topic                         | Date            |
+|----|-------------------------------------|------------|-------------------------------|-----------------|
+| 1  | Two Sums                            | Easy       | Array & Hashing               | 3rd June, 2026  |
+| 2  | Longest Common Prefix               | Easy       | Array & Hashing               | 4th June, 2026  |
+| 3  | Remove Duplicates from Sorted Array | Easy       | Array & Hashing               | 4th June, 2026  |
+| 4  | Remove Element                      | Easy       | Array & Hashing               | 4th June, 2026  |
+| 5  | Search Insert Position              | Easy       | Array & Hashing               | 4th June, 2026  |
+| 6  | Plus One                            | Easy       | Array & Hashing               | 4th June, 2026  |
+| 7  | Merge Sorted Array                  | Easy       | Array & Hashing, Two Pointers | 8th June, 2026  |
+| 8  | Length of Last Word                 | Easy       | Array & Hashing               | 8th June, 2026  |
+| 9  | Valid Parentheses                   | Easy       | Array & Hashing, Stack        | 8th June, 2026  |
+| 10 | Best Time to Buy and Sell Stock     | Easy       | Array & Hashing               | 8th June, 2026  |
+| 11 | Valid Palindrome                    | Easy       | Array & Hashing, Two Pointers | 11th June, 2026 |
+| 12 | Group Anagrams                      | Medium     | Array & Hashing               | 12th June, 2026 |
+| 13 | Contains Duplicate                  | Easy       | Array & Hashing               | 12th June, 2026 |
+| 14 | Valid Anagram                       | Easy       | Array & Hashing               | 12th June, 2026 |
+| 15 | Top K Frequent Elements             | Medium     | Array & Hashing               | 15th June, 2026 |
+| 16 | Container With Most Water           | Medium     | Array & Hashing, Two Pointers | 15th June, 2026 |
+| 17 | Valid Sudoku                        | Medium     | Array & Hashing               | 18th June, 2026 |
+| 18 | Spiral Matrix                       | Medium     | Array & Hashing, Two Pointers | 18th June, 2026 |
+| 19 | Baseball Game                       | Easy       | Array & Hashing, Stack        | 18th June, 2026 |
 
 
 ---
