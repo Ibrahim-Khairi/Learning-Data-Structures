@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-23%20%2F%20100-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-24%20%2F%20100-orange)
 
 | #  | Problem                             | Difficulty | Topic                         | Date            |
 |----|-------------------------------------|------------|-------------------------------|-----------------|
@@ -35,6 +35,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 21 | Crawler Log Folder                  | Easy       | Array & Hashing, Stack        | 19th June, 2026 |
 | 22 | Daily Temperatures                  | Medium     | Array & Hashing, Stack        | 25th June, 2026 |
 | 23 | Asteroid Collision                  | Medium     | Array & Hashing, Stack        | 28th June, 2026 |
+| 24 | Reverse String                      | Easy       | Array & Hashing, Two Pointers | 29th June, 2026 |
 
 
 ---
