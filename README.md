@@ -39,6 +39,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 25 | Rotate Array                        | Medium     | Array & Hashing, Two Pointers  | 29th June, 2026 |
 | 26 | Binary Search                       | Easy       | Array & Hashing, Binary Search | 29th June, 2026 |
 | 27 | Decode String                       | Medium     | Array & Hashing, Stack         | 30th June, 2026 |
+| 27 | Flipping an Image                   | Easy       | Array & Hashing, Two Pointers  | 30th June, 2026 |
 
 
 ---
