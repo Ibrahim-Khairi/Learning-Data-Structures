@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-26%20%2F%20100-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-27%20%2F%20100-orange)
 
 | #  | Problem                             | Difficulty | Topic                          | Date            |
 |----|-------------------------------------|------------|--------------------------------|-----------------|
@@ -38,6 +38,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 24 | Reverse String                      | Easy       | Array & Hashing, Two Pointers  | 29th June, 2026 |
 | 25 | Rotate Array                        | Medium     | Array & Hashing, Two Pointers  | 29th June, 2026 |
 | 26 | Binary Search                       | Easy       | Array & Hashing, Binary Search | 29th June, 2026 |
+| 27 | Decode String                       | Medium     | Array & Hashing, Stack         | 30th June, 2026 |
 
 
 ---
