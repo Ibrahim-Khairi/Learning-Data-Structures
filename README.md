@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-30%20%2F%20100-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-31%20%2F%20100-orange)
 
 | #  | Problem                             | Difficulty | Topic                          | Date            |
 |----|-------------------------------------|------------|--------------------------------|-----------------|
@@ -42,6 +42,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 28 | Flipping an Image                   | Easy       | Array & Hashing, Two Pointers  | 30th June, 2026 |
 | 29 | Simplify Path                       | Medium     | Array & Hashing, Stack         | 2nd July, 2026  |
 | 30 | Reverse Linked List                 | Easy       | Linked List                    | 2nd July, 2026  |
+| 31 | Rotate List                         | Medium     | Linked List                    | 3rd July, 2026  |
 
 
 ---
