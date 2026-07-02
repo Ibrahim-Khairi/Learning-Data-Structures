@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-29%20%2F%20100-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-30%20%2F%20100-orange)
 
 | #  | Problem                             | Difficulty | Topic                          | Date            |
 |----|-------------------------------------|------------|--------------------------------|-----------------|
@@ -41,6 +41,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 27 | Decode String                       | Medium     | Array & Hashing, Stack         | 30th June, 2026 |
 | 28 | Flipping an Image                   | Easy       | Array & Hashing, Two Pointers  | 30th June, 2026 |
 | 29 | Simplify Path                       | Medium     | Array & Hashing, Stack         | 2nd July, 2026  |
+| 30 | Reverse Linked List                 | Easy       | Linked List                    | 2nd July, 2026  |
 
 
 ---
@@ -52,7 +53,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 - [ ] Sliding Window
 - [x] Stack
 - [x] Binary Search
-- [ ] Linked Lists
+- [x] Linked Lists
 - [ ] Trees
 - [ ] Tries
 - [ ] Heap / Priority Queue
@@ -73,6 +74,8 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 │   └── problem-name.py
 └── algorithms/
     └── notes on techniques and new algorithms
+└── templates/
+    └── boilerplate code that can be used while doing specific types of problems
 ```
 
 Each solution file includes:
