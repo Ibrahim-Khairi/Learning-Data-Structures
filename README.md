@@ -43,6 +43,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 29 | Simplify Path                       | Medium     | Array & Hashing, Stack         | 2nd July, 2026  |
 | 30 | Reverse Linked List                 | Easy       | Linked List                    | 2nd July, 2026  |
 | 31 | Rotate List                         | Medium     | Linked List                    | 3rd July, 2026  |
+| 32 | Count Collisions on a Road          | Medium     | Array & Hashing, Stack         | 5th July, 2026  |
 
 
 ---
