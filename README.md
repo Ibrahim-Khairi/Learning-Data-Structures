@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-33%20%2F%20100-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-34%20%2F%20100-orange)
 
 | #  | Problem                             | Difficulty | Topic                          | Date            |
 |----|-------------------------------------|------------|--------------------------------|-----------------|
@@ -45,6 +45,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 31 | Rotate List                         | Medium     | Linked List                    | 3rd July, 2026  |
 | 32 | Count Collisions on a Road          | Medium     | Array & Hashing, Stack         | 5th July, 2026  |
 | 33 | Car Fleet                           | Medium     | Array & Hashing, Stack         | 5th July, 2026  |
+| 34 | Sqrt(x)                             | Easy       | Array & Hashing, Binary Search | 6th July, 2026  |
 
 
 ---
