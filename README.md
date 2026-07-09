@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-38%20%2F%20100-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-39%20%2F%20100-orange)
 
 | #  | Problem                             | Difficulty | Topic                          | Date            |
 |----|-------------------------------------|------------|--------------------------------|-----------------|
@@ -50,6 +50,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 36 | Intersection of Two Arrays          | Easy       | Array & Hashing                | 7th July, 2026  |
 | 37 | Merge Two Sorted Lists              | Easy       | Linked List                    | 9th July, 2026  |
 | 38 | Linked List Cycle                   | Easy       | Linked List                    | 9th July, 2026  |
+| 39 | Middle of the Linked List           | Easy       | Linked List                    | 9th July, 2026  |
 
 
 ---
