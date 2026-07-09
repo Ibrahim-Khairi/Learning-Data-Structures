@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-36%20%2F%20100-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-37%20%2F%20100-orange)
 
 | #  | Problem                             | Difficulty | Topic                          | Date            |
 |----|-------------------------------------|------------|--------------------------------|-----------------|
@@ -48,6 +48,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 34 | Sqrt(x)                             | Easy       | Array & Hashing, Binary Search | 6th July, 2026  |
 | 35 | Missing Number                      | Easy       | Array & Hashing                | 6th July, 2026  |
 | 36 | Intersection of Two Arrays          | Easy       | Array & Hashing                | 7th July, 2026  |
+| 37 | Merge Two Sorted Lists              | Easy       | Linked List                    | 9th July, 2026  |
 
 
 ---
