@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-41%20%2F%20100-yellow)
+![Problems Solved](https://img.shields.io/badge/Solved-42%20%2F%20100-yellow)
 
 | #  | Problem                             | Difficulty | Topic                          | Date            |
 |----|-------------------------------------|------------|--------------------------------|-----------------|
@@ -53,6 +53,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 39 | Middle of the Linked List           | Easy       | Linked List                    | 9th July, 2026  |
 | 40 | Middle of the Linked List           | Easy       | Linked List                    | 9th July, 2026  |
 | 41 | Delete Node in a Linked List        | Medium     | Linked List                    | 9th July, 2026  |
+| 42 | First Bad Version                   | Easy       | Binary Search                  | 9th July, 2026  |
 
 
 ---
