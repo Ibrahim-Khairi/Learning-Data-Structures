@@ -51,10 +51,11 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 37 | Merge Two Sorted Lists              | Easy       | Linked List                    | 9th July, 2026  |
 | 38 | Linked List Cycle                   | Easy       | Linked List                    | 9th July, 2026  |
 | 39 | Middle of the Linked List           | Easy       | Linked List                    | 9th July, 2026  |
-| 40 | Middle of the Linked List           | Easy       | Linked List                    | 9th July, 2026  |
+| 40 | Palindrome Linked List              | Easy       | Linked List                    | 9th July, 2026  |
 | 41 | Delete Node in a Linked List        | Medium     | Linked List                    | 9th July, 2026  |
 | 42 | First Bad Version                   | Easy       | Binary Search                  | 9th July, 2026  |
 | 43 | Remove Dupllicates from Sorted List | Easy       | Linked List                    | 10th July, 2026 |
+| 44 | Remove Nth Node from End of List    | Medium     | Linked List                    | 10th July, 2026 |
 
 
 ---
