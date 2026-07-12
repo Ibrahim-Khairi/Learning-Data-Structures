@@ -56,6 +56,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 42 | First Bad Version                   | Easy       | Binary Search                  | 9th July, 2026  |
 | 43 | Remove Dupllicates from Sorted List | Easy       | Linked List                    | 10th July, 2026 |
 | 44 | Remove Nth Node from End of List    | Medium     | Linked List                    | 10th July, 2026 |
+| 45 | Add Two Numbers                     | Medium     | Linked List                    | 13th July, 2026 |
 
 
 ---
