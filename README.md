@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-48%20%2F%20100-yellow)
+![Problems Solved](https://img.shields.io/badge/Solved-49%20%2F%20100-yellow)
 
 | #  | Problem                             | Difficulty | Topic                          | Date            |
 |----|-------------------------------------|------------|--------------------------------|-----------------|
@@ -60,6 +60,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 46 | Odd Even Linked List                | Medium     | Linked List                    | 13th July, 2026 |
 | 47 | Reorder List                        | Medium     | Linked List                    | 13th July, 2026 |
 | 48 | Design Browser History              | Medium     | Array & Hashing, Stack         | 13th July, 2026 |
+| 49 | Swap Nodes in Pairs                 | Medium     | Linked List                    | 13th July, 2026 |
 
 
 ---
