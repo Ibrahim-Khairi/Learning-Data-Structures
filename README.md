@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-46%20%2F%20100-yellow)
+![Problems Solved](https://img.shields.io/badge/Solved-47%20%2F%20100-yellow)
 
 | #  | Problem                             | Difficulty | Topic                          | Date            |
 |----|-------------------------------------|------------|--------------------------------|-----------------|
@@ -58,6 +58,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 44 | Remove Nth Node from End of List    | Medium     | Linked List                    | 10th July, 2026 |
 | 45 | Add Two Numbers                     | Medium     | Linked List                    | 13th July, 2026 |
 | 46 | Odd Even Linked List                | Medium     | Linked List                    | 13th July, 2026 |
+| 47 | Reorder List                        | Medium     | Linked List                    | 13th July, 2026 |
 
 
 ---
