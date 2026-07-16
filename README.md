@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-56%20%2F%20100-yellow)
+![Problems Solved](https://img.shields.io/badge/Solved-57%20%2F%20100-yellow)
 
 | #  | Problem                                                | Difficulty | Topic                          | Date            |
 |----|--------------------------------------------------------|------------|--------------------------------|-----------------|
@@ -68,6 +68,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 54 | Count Negative Numbers in a Sorted Matrix              | Easy       | Binary Search                  | 16th July, 2026 |
 | 55 | Find Target Indices after Sorting Array                | Easy       | Array & Hashing, Binary Search | 16th July, 2026 |
 | 56 | Maximum Count of Positive Integer and Negative Integer | Easy       | Binary Search                  | 16th July, 2026 |
+| 57 | Fruits into Basket II                                  | Easy       | Array & Hashing                | 16th July, 2026 |
 
 
 ---
