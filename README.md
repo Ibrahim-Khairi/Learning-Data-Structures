@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-54%20%2F%20100-yellow)
+![Problems Solved](https://img.shields.io/badge/Solved-55%20%2F%20100-yellow)
 
 | #  | Problem                                   | Difficulty | Topic                          | Date            |
 |----|-------------------------------------------|------------|--------------------------------|-----------------|
@@ -66,6 +66,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 52 | Guess Number Higher or Lower              | Easy       | Binary Search                  | 16th July, 2026 |
 | 53 | Intersection of Two Arrays II             | Easy       | Array & Hashing                | 16th July, 2026 |
 | 54 | Count Negative Numbers in a Sorted Matrix | Easy       | Binary Search                  | 16th July, 2026 |
+| 55 | Find Target Indices after Sorting Array   | Easy       | Array & Hashing, Binary Search | 16th July, 2026 |
 
 
 ---
