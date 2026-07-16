@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-51%20%2F%20100-yellow)
+![Problems Solved](https://img.shields.io/badge/Solved-52%20%2F%20100-yellow)
 
 | #  | Problem                             | Difficulty | Topic                          | Date            |
 |----|-------------------------------------|------------|--------------------------------|-----------------|
@@ -63,6 +63,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 49 | Swap Nodes in Pairs                 | Medium     | Linked List                    | 13th July, 2026 |
 | 50 | Basic Calculator II                 | Medium     | Array & Hashing, Stack         | 13th July, 2026 |
 | 51 | Check if N and its Double Exist     | Easy       | Array & Hashing, Binary Search | 16th July, 2026 |
+| 52 | Guess Number Higher or Lower        | Easy       | Binary Search                  | 16th July, 2026 |
 
 
 ---
