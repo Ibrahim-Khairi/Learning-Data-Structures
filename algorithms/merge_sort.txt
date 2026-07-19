@@ -1,0 +1,17 @@
+There are essentially two functions in merge sort. The function that merges two arrays given to it in increasing/decreasing order, and the merge
+sort function that is called recursively in order to keep dissecting the array into half.
+These two functions, together, make up Merge Sort, which is able to sort an array in O(log n) of time, and is usually ideal for scenarios where
+we have to deal with large datasets. It's more efficient than something like bubblesort or selection sort, which take O(n^2) time.
+
+The first function (merge):
+- This function runs two pointers for two arrays - pointer i for left array, pointer j for right array.
+- Then we iterate through the both the arrays, seeing which pointer references to a smaller value in both the arrays.
+- If the left array element is smaller, then we would append that into result and increment the left pointer. Otherwise, we would do the vice
+versa for the right array.
+- Once we are done with the while loop, one of the two halves still might have elements remaining. Therefore, extending left[i:] and right[j:]
+ensures that you just directly add those remaining elements into the result array.
+
+The second function (mergeSort):
+- This just dissects the array through mid.
+- Then it further recursively calls itself to dissect them further.
+- At the end, it returns the merged left and array.

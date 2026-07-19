@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-59%20%2F%20100-yellow)
+![Problems Solved](https://img.shields.io/badge/Solved-60%20%2F%20100-yellow)
 
 | #  | Problem                                                | Difficulty | Topic                          | Date            |
 |----|--------------------------------------------------------|------------|--------------------------------|-----------------|
@@ -71,6 +71,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 57 | Fruits into Basket II                                  | Easy       | Array & Hashing                | 16th July, 2026 |
 | 58 | Trapping Rain Water                                    | Hard       | Array & Hashing, Stack         | 17th July, 2026 |
 | 59 | First Missing Positive                                 | Hard       | Array & Hashing, Stack         | 17th July, 2026 |
+| 60 | Number of Perfect Pairs                                | Medium     | Array & Hashing                | 19th July, 2026 |
 
 
 ---
