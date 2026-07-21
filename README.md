@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-61%20%2F%20100-yellowgreen)
+![Problems Solved](https://img.shields.io/badge/Solved-62%20%2F%20100-yellowgreen)
 
 | #  | Problem                                                | Difficulty | Topic                          | Date            |
 |----|--------------------------------------------------------|------------|--------------------------------|-----------------|
@@ -73,7 +73,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 59 | First Missing Positive                                 | Hard       | Array & Hashing, Stack         | 17th July, 2026 |
 | 60 | Number of Perfect Pairs                                | Medium     | Array & Hashing                | 19th July, 2026 |
 | 61 | Maximum Average Subarray I                             | Easy       | Sliding Window                 | 21th July, 2026 |
-
+| 62 | Minimum Recolors to Get K Consecutive Black Blocks     | Easy       | Sliding Window                 | 21th July, 2026 |
 
 ---
 
