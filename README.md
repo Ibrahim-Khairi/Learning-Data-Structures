@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-63%20%2F%20100-yellowgreen)
+![Problems Solved](https://img.shields.io/badge/Solved-64%20%2F%20100-yellowgreen)
 
 | #  | Problem                                                | Difficulty | Topic                          | Date            |
 |----|--------------------------------------------------------|------------|--------------------------------|-----------------|
@@ -75,6 +75,8 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 61 | Maximum Average Subarray I                             | Easy       | Sliding Window                 | 21th July, 2026 |
 | 62 | Minimum Recolors to Get K Consecutive Black Blocks     | Easy       | Sliding Window                 | 21th July, 2026 |
 | 63 | Substrings of Size Three with Distinct Characters      | Easy       | Sliding Window                 | 21th July, 2026 |
+| 64 | Contains Duplicate II                                  | Easy       | Sliding Window                 | 21th July, 2026 |
+
 
 ---
 
