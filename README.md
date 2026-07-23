@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-69%20%2F%20100-yellowgreen)
+![Problems Solved](https://img.shields.io/badge/Solved-70%20%2F%20100-yellowgreen)
 
 | #  | Problem                                                   | Difficulty | Topic                          | Date            |
 |----|-----------------------------------------------------------|------------|--------------------------------|-----------------|
@@ -78,9 +78,10 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 64 | Contains Duplicate II                                     | Easy       | Sliding Window                 | 21th July, 2026 |
 | 65 | Maximum Length Substring With Two Occurrences             | Easy       | Sliding Window                 | 23rd July, 2026 |
 | 66 | Minimum Difference Between Highest and Lowest of K Scores | Easy       | Sliding Window                 | 23rd July, 2026 |
-| 67 | Count Substrings That Satisfy K-Constraint 1              | Easy       | Sliding Window                 | 23rd July, 2026 |
+| 67 | Count Substrings That Satisfy K-Constraint I              | Easy       | Sliding Window                 | 23rd July, 2026 |
 | 68 | Find the K-Beauty of a Number                             | Easy       | Sliding Window                 | 23rd July, 2026 |
 | 69 | Defuse the Bomb                                           | Easy       | Sliding Window                 | 23rd July, 2026 |
+| 70 | Find X-Sum of All K-Long Subarrays I                      | Easy       | Sliding Window                 | 23rd July, 2026 |
 
 
 ---
