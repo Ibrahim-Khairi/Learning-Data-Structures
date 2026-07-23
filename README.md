@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-70%20%2F%20100-yellowgreen)
+![Problems Solved](https://img.shields.io/badge/Solved-71%20%2F%20100-yellowgreen)
 
 | #  | Problem                                                   | Difficulty | Topic                          | Date            |
 |----|-----------------------------------------------------------|------------|--------------------------------|-----------------|
@@ -82,6 +82,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 68 | Find the K-Beauty of a Number                             | Easy       | Sliding Window                 | 23rd July, 2026 |
 | 69 | Defuse the Bomb                                           | Easy       | Sliding Window                 | 23rd July, 2026 |
 | 70 | Find X-Sum of All K-Long Subarrays I                      | Easy       | Sliding Window                 | 23rd July, 2026 |
+| 71 | Longest Harmonious Subsequence                            | Easy       | Sliding Window                 | 23rd July, 2026 |
 
 
 ---
