@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-73%20%2F%20100-yellowgreen)
+![Problems Solved](https://img.shields.io/badge/Solved-74%20%2F%20100-yellowgreen)
 
 | #  | Problem                                                   | Difficulty | Topic                          | Date            |
 |----|-----------------------------------------------------------|------------|--------------------------------|-----------------|
@@ -85,6 +85,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 71 | Longest Harmonious Subsequence                            | Easy       | Sliding Window                 | 23rd July, 2026 |
 | 72 | Alternating Groups I                                      | Easy       | Sliding Window                 | 24th July, 2026 |
 | 73 | Minimum Positive Sum Subarray                             | Easy       | Sliding Window                 | 25th July, 2026 |
+| 74 | Number of Substrings Containing All Three Characters      | Medium     | Sliding Window                 | 26th July, 2026 |
 
 
 ---
