@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-74%20%2F%20100-yellowgreen)
+![Problems Solved](https://img.shields.io/badge/Solved-75%20%2F%20100-yellowgreen)
 
 | #  | Problem                                                   | Difficulty | Topic                          | Date            |
 |----|-----------------------------------------------------------|------------|--------------------------------|-----------------|
@@ -86,6 +86,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 72 | Alternating Groups I                                      | Easy       | Sliding Window                 | 24th July, 2026 |
 | 73 | Minimum Positive Sum Subarray                             | Easy       | Sliding Window                 | 25th July, 2026 |
 | 74 | Number of Substrings Containing All Three Characters      | Medium     | Sliding Window                 | 26th July, 2026 |
+| 75 | Longest Subarray of 1's After Deleting One Element        | Medium     | Sliding Window                 | 26th July, 2026 |
 
 
 ---
