@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-81%20%2F%20100-green)
+![Problems Solved](https://img.shields.io/badge/Solved-82%20%2F%20100-green)
 
 | #  | Problem                                                                       | Difficulty | Topic                          | Date            |
 |----|-------------------------------------------------------------------------------|------------|--------------------------------|-----------------|
@@ -93,6 +93,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 79 | Minimum Operations to Make Binary Array Elements Equal to One I               | Medium     | Sliding Window                 | 31st July, 2026 |
 | 80 | Subarrays with K Different Integers                                           | Hard       | Sliding Window                 | 31st July, 2026 |
 | 81 | Binary Subarrays with Sum                                                     | Medium     | Sliding Window                 | 31st July, 2026 |
+| 82 | Number of Smooth Descent Periods of a Stock                                   | Medium     | Sliding Window                 | 31st July, 2026 |
 
 
 ---
