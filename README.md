@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-84%20%2F%20100-green)
+![Problems Solved](https://img.shields.io/badge/Solved-85%20%2F%20100-green)
 
 | #  | Problem                                                                       | Difficulty | Topic                          | Date            |
 |----|-------------------------------------------------------------------------------|------------|--------------------------------|-----------------|
@@ -96,6 +96,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 82 | Number of Smooth Descent Periods of a Stock                                   | Medium     | Sliding Window                 | 31st July, 2026 |
 | 83 | Count the Number of Good Subarrays                                            | Medium     | Sliding Window                 | 31st July, 2026 |
 | 84 | Max Consecutive Ones III                                                      | Medium     | Sliding Window                 | 31st July, 2026 |
+| 85 | Count Number of Nice Subarrays                                                | Medium     | Sliding Window                 | 31st July, 2026 |
 
 
 ---
