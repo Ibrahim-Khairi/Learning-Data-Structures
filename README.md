@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-79%20%2F%20100-yellowgreen)
+![Problems Solved](https://img.shields.io/badge/Solved-80%20%2F%20100-green)
 
 | #  | Problem                                                                       | Difficulty | Topic                          | Date            |
 |----|-------------------------------------------------------------------------------|------------|--------------------------------|-----------------|
@@ -91,6 +91,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 77 | Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | Medium     | Sliding Window                 | 26th July, 2026 |
 | 78 | Maximise the Confusion of an Array                                            | Medium     | Sliding Window                 | 31st July, 2026 |
 | 79 | Minimum Operations to Make Binary Array Elements Equal to One I               | Medium     | Sliding Window                 | 31st July, 2026 |
+| 80 | Subarrays with K Different Integers                                           | Hard       | Sliding Window                 | 31st July, 2026 |
 
 
 ---
