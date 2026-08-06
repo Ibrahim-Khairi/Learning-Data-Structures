@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-87%20%2F%20100-green)
+![Problems Solved](https://img.shields.io/badge/Solved-88%20%2F%20100-green)
 
 | #  | Problem                                                                       | Difficulty | Topic                          | Date             |
 |----|-------------------------------------------------------------------------------|------------|--------------------------------|------------------|
@@ -99,6 +99,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 85 | Count Number of Nice Subarrays                                                | Medium     | Sliding Window                 | 31st July, 2026  |
 | 86 | Count Subarrays with Fixed Bounds                                             | Hard       | Sliding Window                 | 1st August, 2026 |
 | 87 | Minimum Swaps to Group All 1's Together II                                    | Medium     | Sliding Window                 | 6th August, 2026 |
+| 88 | Longest Repeating Character Element                                           | Medium     | Sliding Window                 | 6th August, 2026 |
 
 
 ---
