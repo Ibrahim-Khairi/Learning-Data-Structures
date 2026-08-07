@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-91%20%2F%20100-green)
+![Problems Solved](https://img.shields.io/badge/Solved-92%20%2F%20100-green)
 
 | #  | Problem                                                                       | Difficulty | Topic                          | Date             |
 |----|-------------------------------------------------------------------------------|------------|--------------------------------|------------------|
@@ -103,6 +103,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 89 | Arithmetic Slices                                                             | Medium     | Sliding Window                 | 7th August, 2026 |
 | 90 | Grumpy Bookstore Owner                                                        | Medium     | Sliding Window                 | 7th August, 2026 |
 | 91 | Count Subarrays Where Max Element Appears at Least K Times                    | Medium     | Sliding Window                 | 7th August, 2026 |
+| 92 | Maximum Erasure Value                                                         | Medium     | Sliding Window                 | 7th August, 2026 |
 
 
 ---
