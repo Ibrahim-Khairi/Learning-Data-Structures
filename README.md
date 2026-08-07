@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-89%20%2F%20100-green)
+![Problems Solved](https://img.shields.io/badge/Solved-90%20%2F%20100-green)
 
 | #  | Problem                                                                       | Difficulty | Topic                          | Date             |
 |----|-------------------------------------------------------------------------------|------------|--------------------------------|------------------|
@@ -101,6 +101,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 87 | Minimum Swaps to Group All 1's Together II                                    | Medium     | Sliding Window                 | 6th August, 2026 |
 | 88 | Longest Repeating Character Element                                           | Medium     | Sliding Window                 | 6th August, 2026 |
 | 89 | Arithmetic Slices                                                             | Medium     | Sliding Window                 | 7th August, 2026 |
+| 90 | Grumpy Bookstore Owner                                                        | Medium     | Sliding Window                 | 7th August, 2026 |
 
 
 ---
