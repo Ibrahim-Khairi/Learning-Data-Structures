@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-97%20%2F%20100-green)
+![Problems Solved](https://img.shields.io/badge/Solved-98%20%2F%20100-green)
 
 | #  | Problem                                                                       | Difficulty | Topic                          | Date              |
 |----|-------------------------------------------------------------------------------|------------|--------------------------------|-------------------|
@@ -109,6 +109,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 95 | Binary Tree Preorder Traversal                                                | Easy       | Tree                           | 19th August, 2026 |
 | 96 | Maximum Depth of Binary Tree                                                  | Easy       | Tree                           | 19th August, 2026 |
 | 97 | Minimum Depth of Binary Tree                                                  | Easy       | Tree                           | 19th August, 2026 |
+| 98 | Invert Binary Tree                                                            | Easy       | Tree                           | 19th August, 2026 |
 
 
 ---
