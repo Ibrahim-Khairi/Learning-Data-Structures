@@ -8,7 +8,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-93%20%2F%20100-green)
+![Problems Solved](https://img.shields.io/badge/Solved-94%20%2F%20100-green)
 
 | #   | Problem                                                                       | Difficulty | Topic                          | Date              |
 |-----|-------------------------------------------------------------------------------|------------|--------------------------------|-------------------|
@@ -105,6 +105,7 @@ Solving LeetCode problems in Python. Tracking progress, approaches, and algorith
 | 91  | Count Subarrays Where Max Element Appears at Least K Times                    | Medium     | Sliding Window                 | 7th August, 2026  |
 | 92  | Maximum Erasure Value                                                         | Medium     | Sliding Window                 | 7th August, 2026  |
 | 93  | Binary Tree Inorder Traversal                                                 | Easy       | Tree                           | 19th August, 2026 |
+| 94  | Binary Tree Postorder Traversal                                               | Easy       | Tree                           | 19th August, 2026 |
 
 
 ---
